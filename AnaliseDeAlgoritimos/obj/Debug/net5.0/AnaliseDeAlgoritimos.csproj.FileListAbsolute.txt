@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\bin\Debug\net5.0\AnaliseDeAlgoritimos.exe
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\bin\Debug\net5.0\AnaliseDeAlgoritimos.deps.json
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\bin\Debug\net5.0\AnaliseDeAlgoritimos.runtimeconfig.json
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\bin\Debug\net5.0\AnaliseDeAlgoritimos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\bin\Debug\net5.0\AnaliseDeAlgoritimos.dll
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\bin\Debug\net5.0\ref\AnaliseDeAlgoritimos.dll
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\bin\Debug\net5.0\AnaliseDeAlgoritimos.pdb
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.dll
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\ref\AnaliseDeAlgoritimos.dll
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.pdb
+C:\Users\Usuario\source\repos\AnaliseDeAlgoritimos\AnaliseDeAlgoritimos\obj\Debug\net5.0\AnaliseDeAlgoritimos.genruntimeconfig.cache
